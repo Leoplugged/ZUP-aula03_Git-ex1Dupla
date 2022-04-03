@@ -1,1 +1,5 @@
-Treinamento da aula 03: subir receitaDeBolo.txt da atividade individual para fazer com a dupla
+### :: Exercício 1 - Dupla ::
+- Ir para o repositório remoto da sua dupla;
+- Clonar o projeto;
+- Alterar o arquivo baixado, adicionando informações e imagens;
+- Subir a alteração para o repositório remoto
